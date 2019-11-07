@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MyServer",
+            "request": "launch",
+            "mainClass": "Socket.MyServer",
+            "projectName": "Caro"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MySocket",
+            "request": "launch",
+            "mainClass": "Socket.MySocket",
+            "projectName": "Caro"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "App.App",
+            "projectName": "Caro"
+        }
+    ]
+}
